@@ -65,7 +65,7 @@
 - 🧠 **Artificial Intelligence:** Exploring agentic AI workflows, computer vision, and applied ML pipelines.
 - ⚙️ **Full-Stack Engineering:** Developing responsive web platforms and structured APIs using modern frameworks.
 - 🧩 **Algorithmic Foundations:** Practicing data structures, algorithmic paradigms, and competitive programming problems.
-- 📌 **Milestone Placeholder:** *[Replace with current milestone — e.g., Preparing for 2025/2026 AI/SWE internships · Building next project]*
+- 📌 **Milestone Placeholder:** Preparing for 2025/2026 AI/SWE internships · Building next project
 
 <br/>
 
@@ -74,43 +74,34 @@
 <!-- FEATURED PROJECTS SECTION -->
 ## 📁 Featured Projects
 
-> **How to feature your projects:** Replace the bracketed placeholders below (`[PROJECT NAME]`, `[DESCRIPTION]`, `[TECH STACK]`, `[REPOSITORY LINK]`) with the repositories you wish to highlight. You can reorder, add, or remove cards as your portfolio grows.
+### ✦ SwasthyaSetu / HealthNexus
+*AI-Assisted Rural Healthcare Coordination*
 
-<br/>
-
-### ✦ [Project One: Featured Title]
-*`[Featured Project 01]`*
-
-- **Description:** `[Short 1-2 sentence description explaining what this project does, why you built it, and the real-world problem it solves.]`
-- **Tech Stack:** `[React]` • `[Node.js]` • `[MongoDB]` • `[Tailwind CSS]`
-- **Links:** [🐙 View Repository](https://github.com/anshikath305) &nbsp;|&nbsp; [↗ Live Demo (Optional)](#)
-<!-- Optional: Add a project screenshot or diagram if available:
-![Project Preview](path/to/screenshot.png)
--->
+- **Description:** An AI-assisted healthcare coordination platform designed to improve rural patient referrals, hospital matching, and continuity of care. It combines offline-first workflows, clinical risk triage, hospital capacity tracking, referral management, and longitudinal electronic health records.
+- **Tech Stack:** `React` • `Vite` • `Tailwind CSS` • `Node.js` • `Express` • `Supabase` • `PostgreSQL` • `Python` • `FastAPI`
+- **Links:** [🐙 View Repository](https://github.com/anshikath305/LabReportTracker) &nbsp;|&nbsp; [↗ View README](https://github.com/anshikath305/LabReportTracker/blob/main/README.md)
 
 ---
 
-### ◆ [Project Two: Featured Title]
-*`[Featured Project 02]`*
+### ◆ AgroSense
+*AI-Powered Smart Farming*
 
-- **Description:** `[Short 1-2 sentence description explaining what this project does, why you built it, and the real-world problem it solves.]`
-- **Tech Stack:** `[Python]` • `[FastAPI]` • `[OpenAI API]` • `[Streamlit]`
-- **Links:** [🐙 View Repository](https://github.com/anshikath305) &nbsp;|&nbsp; [↗ Live Demo (Optional)](#)
-<!-- Optional: Add a project screenshot or diagram if available:
-![Project Preview](path/to/screenshot.png)
--->
+- **Description:** An AI-powered smart farming MVP that brings together crop recommendations, plant disease detection, fertilizer prediction, and an AI farming advisory assistant to support agricultural decision-making.
+- **Tech Stack:** `Next.js` • `React` • `Python` • `FastAPI` • `Gemini API`
+- **Links:** [🐙 View Repository](https://github.com/anshikath305/AgroSense) &nbsp;|&nbsp; [↗ View README](https://github.com/anshikath305/AgroSense/blob/main/README.md)
 
 ---
 
-### ■ [Project Three: Featured Title]
-*`[Featured Project 03]`*
+### ■ Suraksha-AI
+*Android Application for Women's Safety*
 
-- **Description:** `[Short 1-2 sentence description explaining what this project does, why you built it, and the real-world problem it solves.]`
-- **Tech Stack:** `[JavaScript]` • `[HTML5]` • `[CSS3]` • `[Firebase]`
-- **Links:** [🐙 View Repository](https://github.com/anshikath305) &nbsp;|&nbsp; [↗ Live Demo (Optional)](#)
-<!-- Optional: Add a project screenshot or diagram if available:
-![Project Preview](path/to/screenshot.png)
--->
+- **Description:** An Android safety application designed to help users respond to emergencies through SOS alerts, trusted-contact notifications, location sharing, voice-triggered emergency activation, nearby safe-place maps, and a fake-call feature.
+- **Tech Stack:** `Kotlin` • `Jetpack Compose` • `Room Database` • `CameraX` • `Google Maps SDK` • `Coroutines & Flow`
+- **Links:** [🐙 View Repository](https://github.com/anshikath305/Suraksha-AI) &nbsp;|&nbsp; [↗ Feature Documentation](https://github.com/anshikath305/Suraksha-AI/blob/main/FEATURES_IMPLEMENTATION.md) • [Demo Guide](https://github.com/anshikath305/Suraksha-AI/blob/main/HACKATHON_DEMO.md)
+
+---
+
+[**Explore all my public repositories →**](https://github.com/anshikath305?tab=repositories)
 
 <br/>
 
@@ -184,9 +175,9 @@ Live contribution metrics for [**@anshikath305**](https://github.com/anshikath30
 | :--- | :--- | :--- |
 | **GitHub** | [github.com/anshikath305](https://github.com/anshikath305) | Verified |
 | **Email** | [anshikath305@gmail.com](mailto:anshikath305@gmail.com) | Verified |
-| **LinkedIn** | `[Add your LinkedIn profile URL here]` | Pending your link |
-| **LeetCode** | `[Add your LeetCode profile URL here]` | Pending your link |
-| **X (Twitter)** | `[Add your X handle URL here]` | Pending your link |
+| **LinkedIn** | [linkedin.com/in/anshikathakur305](https://www.linkedin.com/in/anshikathakur305) | Verified |
+| **LeetCode** | [leetcode.com/u/anshikath](https://leetcode.com/u/anshikath) | Verified |
+| **X (Twitter)** | [x.com/anshikath305](https://x.com/anshikath305) | Verified |
 
 </div>
 
